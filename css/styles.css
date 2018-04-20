@@ -2,3 +2,15 @@ body{
   background-image: url("../images/Background.jpg");
   color: white;
 }
+.horizontal {
+  border-top: 8px solid red;
+}
+.short-indenture {
+  border-left: 8px solid black;
+  margin-left: 100px;
+}
+img {
+  max-width: 380px;
+  max-height: 380px;
+  float: right;
+}
