@@ -2,7 +2,7 @@
 #### The first website created in school, Wednesday 18 April
 #### By **Leo Igane**
 ## Description
-The site is part of class work as I learn how to develop websites. It is my End week Indipendent project.
+The site is part of class work as I learn how to develop websites. It is my End week Indipendent project. It is my portfolio containing the work I have done
 ## Setup/Installation Requirements
 * This is a great place
 * See a simple one page website
