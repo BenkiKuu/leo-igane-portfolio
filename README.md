@@ -2,7 +2,7 @@
 #### The first Online Profile created in school, Friday 20th April
 #### By **Leo Igane**
 ## Description
-The site is part of class work as I learn how to develop websites. It is my End week Indipendent project. It is my portfolio containing the work I have done
+The site is part of class work as I learn how to develop websites. It is my End week Independent project. It is my portfolio containing the work I have done
 ## Setup/Installation Requirements
 * This is a great place
 * See a simple one page website
