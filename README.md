@@ -1,5 +1,5 @@
-# MY FIRST WEB PAGE
-#### The first website created in school, Wednesday 18 April
+# LEO IGANE PROFILE
+#### The first Online Profile created in school, Friday 20th April
 #### By **Leo Igane**
 ## Description
 The site is part of class work as I learn how to develop websites. It is my End week Indipendent project. It is my portfolio containing the work I have done
