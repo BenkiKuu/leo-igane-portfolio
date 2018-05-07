@@ -4,11 +4,14 @@
 ## Description
 The site is part of class work as I learn how to develop websites. It is my End week Independent project. It is my portfolio containing the work I have done
 ## Setup/Installation Requirements
-* This is a great place
-* See a simple one page website
-* in a simple
-* easy-to-understand
-* format
+* Create a directory
+* Initialize git using the git init comand
+* Then the git clone https://github.com/BenkiKuu/ip3.git comand.
+* Then go to the directory.
+* Open in Atom.
+
+## Known Bugs
+* No known bugs
 
 
 ## Technologies Used
